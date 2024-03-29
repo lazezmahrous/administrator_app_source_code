@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1096098840890",
+    "project_id": "agriculture-19109",
+    "storage_bucket": "agriculture-19109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096098840890:android:29ef3ed0ffa1f00f7f5003",
+        "android_client_info": {
+          "package_name": "com.example.hessen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzppRNANJ6J_qZDhTzASpwnnlY4XYd4a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
